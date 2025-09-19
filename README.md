@@ -11,8 +11,8 @@ Uma API simples para gerenciamento de usuários, criada como projeto de estudo. 
 ## 📦 Estrutura do projeto
 
 ```
-src/main/java/com/exemplo/api
- ├── ApiApplication.java        # Classe principal do Spring Boot
+src/main/java/com/pedroferreira/apisimples
+ ├── ApiSimplesApplication.java        # Classe principal do Spring Boot
  ├── controller
  │    └── UserController.java  # Endpoints da API
  ├── model
